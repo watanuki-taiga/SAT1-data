@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Akihabara",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 7,
+            "Anime": 10,
+            "Authenticity": 4,
+            "Culture": 3,
+            "Entertainment": 9,
+            "Food": 5,
+            "Humanities": 2,
+            "Landmarks": 3,
+            "Monuments": 1,
+            "Safety": 7,
+            "Uniqueness": 10
+        },
+        "time": 180
+    },
+    {
+        "name": "Asakusa",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 6,
+            "Anime": 2,
+            "Authenticity": 8,
+            "Culture": 8,
+            "Entertainment": 5,
+            "Food": 7,
+            "Humanities": 6,
+            "Landmarks": 8,
+            "Monuments": 7,
+            "Safety": 7,
+            "Uniqueness": 7
+        },
+        "time": 240
+    },
+    {
+        "name": "Ebisu",
+        "scores":
+        {
+            "Affordability": 4,
+            "Amenities": 6,
+            "Anime": 2,
+            "Authenticity": 6,
+            "Culture": 5,
+            "Entertainment": 5,
+            "Food": 7,
+            "Humanities": 3,
+            "Landmarks": 3,
+            "Monuments": 1,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    },
+    {
+        "name": "Ginza",
+        "scores":
+        {
+            "Affordability": 3,
+            "Amenities": 7,
+            "Anime": 1,
+            "Authenticity": 6,
+            "Culture": 6,
+            "Entertainment": 6,
+            "Food": 8,
+            "Humanities": 5,
+            "Landmarks": 5,
+            "Monuments": 3,
+            "Safety": 8,
+            "Uniqueness": 5
+        },
+        "time": 150
+    },
+    {
+        "name": "Harajuku",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 5,
+            "Anime": 7,
+            "Authenticity": 6,
+            "Culture": 6,
+            "Entertainment": 8,
+            "Food": 5,
+            "Humanities": 3,
+            "Landmarks": 7,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 9
+        },
+        "time": 180
+    },
+    {
+        "name": "Hibiya",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 6,
+            "Anime": 3,
+            "Authenticity": 6,
+            "Culture": 7,
+            "Entertainment": 5,
+            "Food": 7,
+            "Humanities": 7,
+            "Landmarks": 7,
+            "Monuments": 4,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    },
+    {
+        "name": "Iidabashi",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 5,
+            "Anime": 4,
+            "Authenticity": 5,
+            "Culture": 6,
+            "Entertainment": 4,
+            "Food": 6,
+            "Humanities": 5,
+            "Landmarks": 5,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    },
+    {
+        "name": "Ikebukuro",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 7,
+            "Anime": 8,
+            "Authenticity": 5,
+            "Culture": 5,
+            "Entertainment": 7,
+            "Food": 7,
+            "Humanities": 4,
+            "Landmarks": 5,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 6
+        },
+        "time": 180
+    },
+    {
+        "name": "Jimbocho",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 5,
+            "Anime": 3,
+            "Authenticity": 7,
+            "Culture": 8,
+            "Entertainment": 4,
+            "Food": 6,
+            "Humanities": 7,
+            "Landmarks": 4,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 6
+        },
+        "time": 150
+    },
+    {
+        "name": "Kamata",
+        "scores":
+        {
+            "Affordability": 7,
+            "Amenities": 5,
+            "Anime": 3,
+            "Authenticity": 6,
+            "Culture": 5,
+            "Entertainment": 4,
+            "Food": 5,
+            "Humanities": 4,
+            "Landmarks": 4,
+            "Monuments": 3,
+            "Safety": 6,
+            "Uniqueness": 5
+        },
+        "time": 90
+    },
+    {
+        "name": "Kichijoji",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 7,
+            "Anime": 5,
+            "Authenticity": 6,
+            "Culture": 7,
+            "Entertainment": 6,
+            "Food": 7,
+            "Humanities": 6,
+            "Landmarks": 6,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 6
+        },
+        "time": 180
+    },
+    {
+        "name": "Meguro",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 6,
+            "Anime": 3,
+            "Authenticity": 5,
+            "Culture": 5,
+            "Entertainment": 5,
+            "Food": 6,
+            "Humanities": 4,
+            "Landmarks": 4,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    },
+    {
+        "name": "Mitaka",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 5,
+            "Anime": 8,
+            "Authenticity": 5,
+            "Culture": 6,
+            "Entertainment": 7,
+            "Food": 5,
+            "Humanities": 5,
+            "Landmarks": 7,
+            "Monuments": 4,
+            "Safety": 7,
+            "Uniqueness": 8
+        },
+        "time": 180
+    },
+    {
+        "name": "Nakano",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 6,
+            "Anime": 7,
+            "Authenticity": 6,
+            "Culture": 5,
+            "Entertainment": 6,
+            "Food": 6,
+            "Humanities": 4,
+            "Landmarks": 4,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 6
+        },
+        "time": 150
+    },
+    {
+        "name": "Nippori",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 5,
+            "Anime": 3,
+            "Authenticity": 6,
+            "Culture": 6,
+            "Entertainment": 4,
+            "Food": 6,
+            "Humanities": 5,
+            "Landmarks": 6,
+            "Monuments": 5,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    },
+    {
+        "name": "Roppongi",
+        "scores":
+        {
+            "Affordability": 4,
+            "Amenities": 7,
+            "Anime": 3,
+            "Authenticity": 5,
+            "Culture": 5,
+            "Entertainment": 8,
+            "Food": 7,
+            "Humanities": 5,
+            "Landmarks": 5,
+            "Monuments": 3,
+            "Safety": 6,
+            "Uniqueness": 7
+        },
+        "time": 180
+    },
+    {
+        "name": "Shibuya",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 7,
+            "Anime": 7,
+            "Authenticity": 6,
+            "Culture": 7,
+            "Entertainment": 9,
+            "Food": 8,
+            "Humanities": 6,
+            "Landmarks": 7,
+            "Monuments": 4,
+            "Safety": 7,
+            "Uniqueness": 8
+        },
+        "time": 240
+    },
+    {
+        "name": "Shimo-Kitazawa",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 6,
+            "Anime": 4,
+            "Authenticity": 7,
+            "Culture": 7,
+            "Entertainment": 6,
+            "Food": 6,
+            "Humanities": 5,
+            "Landmarks": 4,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 8
+        },
+        "time": 180
+    },
+    {
+        "name": "Shinagawa",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 7,
+            "Anime": 2,
+            "Authenticity": 5,
+            "Culture": 4,
+            "Entertainment": 5,
+            "Food": 7,
+            "Humanities": 4,
+            "Landmarks": 5,
+            "Monuments": 3,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    },
+    {
+        "name": "Shinjuku",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 7,
+            "Anime": 7,
+            "Authenticity": 6,
+            "Culture": 7,
+            "Entertainment": 9,
+            "Food": 8,
+            "Humanities": 6,
+            "Landmarks": 7,
+            "Monuments": 4,
+            "Safety": 7,
+            "Uniqueness": 8
+        },
+        "time": 240
+    },
+    {
+        "name": "Tokyo",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 8,
+            "Anime": 5,
+            "Authenticity": 7,
+            "Culture": 8,
+            "Entertainment": 8,
+            "Food": 8,
+            "Humanities": 8,
+            "Landmarks": 8,
+            "Monuments": 7,
+            "Safety": 8,
+            "Uniqueness": 7
+        },
+        "time": 360
+    },
+    {
+        "name": "Tsukiji",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 6,
+            "Anime": 1,
+            "Authenticity": 7,
+            "Culture": 7,
+            "Entertainment": 5,
+            "Food": 10,
+            "Humanities": 6,
+            "Landmarks": 7,
+            "Monuments": 6,
+            "Safety": 7,
+            "Uniqueness": 7
+        },
+        "time": 120
+    },
+    {
+        "name": "Ueno",
+        "scores":
+        {
+            "Affordability": 6,
+            "Amenities": 7,
+            "Anime": 4,
+            "Authenticity": 7,
+            "Culture": 8,
+            "Entertainment": 6,
+            "Food": 7,
+            "Humanities": 8,
+            "Landmarks": 8,
+            "Monuments": 8,
+            "Safety": 7,
+            "Uniqueness": 7
+        },
+        "time": 240
+    },
+    {
+        "name": "Yurakucho",
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 7,
+            "Anime": 3,
+            "Authenticity": 6,
+            "Culture": 6,
+            "Entertainment": 6,
+            "Food": 7,
+            "Humanities": 6,
+            "Landmarks": 6,
+            "Monuments": 4,
+            "Safety": 7,
+            "Uniqueness": 5
+        },
+        "time": 120
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "scores":
+        {
+            "Affordability": 8,
+            "Amenities": 5,
+            "Anime": 0,
+            "Authenticity": 9,
+            "Culture": 7,
+            "Entertainment": 4,
+            "Food": 7,
+            "Humanities": 10,
+            "Landmarks": 7,
+            "Monuments": 5,
+            "Safety": 5,
+            "Uniqueness": 9
+        },
+        "start": "6:00",
+        "end": "22:00",
+        "accommodation": null,
+        "blacklist":
+        [
+            "Nakano",
+            "Shinjuku"
+        ]
+    }
+]
