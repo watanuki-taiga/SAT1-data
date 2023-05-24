@@ -23,5 +23,75 @@
             "Nakano",
             "Shinjuku"
         ]
+    },
+    {
+        "scores":
+        {
+            "Affordability": 7,
+            "Amenities": 8,
+            "Anime": 10,
+            "Authenticity": 6,
+            "Culture": 4,
+            "Entertainment": 9,
+            "Food": 5,
+            "Humanities": 2,
+            "Landmarks": 6,
+            "Monuments": 2,
+            "Safety": 9,
+            "Uniqueness": 9
+        },
+        "start": "10:00",
+        "end": "20:00",
+        "accommodation": "Shibuya",
+        "blacklist":
+        []
+    },
+    {
+        "scores":
+        {
+            "Affordability": 5,
+            "Amenities": 9,
+            "Anime": 3,
+            "Authenticity": 7,
+            "Culture": 8,
+            "Entertainment": 6,
+            "Food": 8,
+            "Humanities": 9,
+            "Landmarks": 8,
+            "Monuments": 5,
+            "Safety": 9,
+            "Uniqueness": 10
+        },
+        "start": "8:00",
+        "end": "23:00",
+        "accommodation": "Ueno",
+        "blacklist":
+        [
+            "Roppongi",
+            "Ueno",
+            "Shinjuku"
+        ]
+    },
+    {
+        "scores":
+        {
+            "Affordability": 10,
+            "Amenities": 4,
+            "Anime": 8,
+            "Authenticity": 5,
+            "Culture": 6,
+            "Entertainment": 7,
+            "Food": 4,
+            "Humanities": 7,
+            "Landmarks": 3,
+            "Monuments": 2,
+            "Safety": 8,
+            "Uniqueness": 9
+        },
+        "start": "7:00",
+        "end": "21:00",
+        "accommodation": null,
+        "blacklist":
+        []
     }
 ]
